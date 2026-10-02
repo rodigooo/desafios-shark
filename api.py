@@ -39,4 +39,4 @@ while op != "2":
     else:
         print("Opção inválida\n")
         subprocess.run("pause", shell=True)
-quit(67)
+quit()
